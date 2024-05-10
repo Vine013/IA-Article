@@ -2,8 +2,8 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
-    width="400"  
+    src="https://github.com/Vine013/IA-Article/blob/main/preview.jpeg?raw=true"
+    width="300"  
   />
 </p>
 
